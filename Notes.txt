@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=9PIqjaXJo7M&list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x&index=4
+
+source ~/.bashrc
+
+https://ipython.org/ipython-doc/3/install/install.html#installnotebook
+pip install ipython
+pip install "ipython[notebook]"
+pip install numpy
+pip install scipy
+pip install pandas
